@@ -1,2 +1,3 @@
-# vim-myconfig
-My Vim Config
+# Configs
+  - vim
+  - subline-text
